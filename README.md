@@ -1,2 +1,5 @@
-# computer_graph
-using simple glut library i try to make circle and cube animation 
+Certainly! Here's a more detailed version of your sentence with additional context:
+
+"I am working on a project using the simple GLUT library, where I created an animation involving both a circle and a cube. The animation displays the circle and cube rotating, moving, or changing in size. I implemented the circle using basic trigonometric functions like `glBegin(GL_POLYGON)` to draw the circular shape, and for the cube, I used `glutSolidCube()` for 3D rendering. The animation updates in real-time, leveraging GLUT's `glutTimerFunc()` or `glutIdleFunc()` to handle smooth transitions."
+
+This version expands on how you might have achieved the animation, focusing on functions typically used in GLUT for drawing and handling animation. Let me know if you'd like to add more specific details!
