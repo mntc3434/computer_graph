@@ -1,4 +1,4 @@
-
+#COMPUTER_GRAPHICS
 
 "I am working on a project using the simple GLUT library, where I created an animation involving both a circle and a cube. The animation displays the circle and cube rotating, moving, or changing in size. I implemented the circle using basic trigonometric functions like `glBegin(GL_POLYGON)` to draw the circular shape, and for the cube, I used `glutSolidCube()` for 3D rendering. The animation updates in real-time, leveraging GLUT's `glutTimerFunc()` or `glutIdleFunc()` to handle smooth transitions."
 
