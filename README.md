@@ -4,4 +4,4 @@
 
 This version expands on how you might have achieved the animation, focusing on functions typically used in GLUT for drawing and handling animation. Let me know if you'd like to add more specific details!
 the simpel projects has this circl, dashedline, triangle and more 
-and our instractur told as animation is a sequace of image 
+and our instractur told as animation is a sequace of image and he try to tech us about computer graphics
