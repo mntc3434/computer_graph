@@ -4,4 +4,3 @@
 
 This version expands on how you might have achieved the animation, focusing on functions typically used in GLUT for drawing and handling animation. Let me know if you'd like to add more specific details!
 to day we have 
-t 
