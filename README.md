@@ -6,3 +6,4 @@ This version expands on how you might have achieved the animation, focusing on f
 to day we have 
 the last example is more about creating interactive  objects 
 there is 2 types of line drowing algorithm the first one is DDA( floting base algorithm) and the second one is breasen hasms algorithm( intigher base ) the first one is apropret for short line and the secod one is acurat than the first and it use more in long line drowing 
+in the above code i have the project that simulate the art Gallery using openGl library and others 
