@@ -3,7 +3,7 @@
 #include "stb_image.h"
 #include <iostream>
 #include <math.h>
-...
+..
 
 // Camera position and angles
 float cameraX = 0.0f, cameraY = 1.0f, cameraZ = 7.0f; // Position
